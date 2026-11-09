@@ -1,5 +1,5 @@
 import os
-from csi3335f2025 import mysql
+from csi3335f2026 import mysql
 
 # Specifications for reading settings for the app:
 class Config:
